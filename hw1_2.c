@@ -1,3 +1,5 @@
+
+
 #include<stdio.h>
 int find_max (int arr[], int num){
    int max = arr[0];
